@@ -25,7 +25,7 @@ Excited to try it out?   Here's how:
 
 1. Clone this repository: 
    ```bash
-   git clone https://github.com/Emm-aan1/redactr.git
+   git clone https://github.com/Emm-aan1/DevCareerAssign3.git
    ```
 2. Open the `index.html` file in your web browser (that's where the magic happens! ✨)
 3. Start redacting your text! (Go forth and protect your privacy! ️)

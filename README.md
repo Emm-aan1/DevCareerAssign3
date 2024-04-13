@@ -8,16 +8,15 @@ With Redactr, you can replace sensitive words with your chosen redaction charact
 
 It's as easy as 1️⃣, 2️⃣, 3️⃣!
 
-1. Enter your text in the designated text area (️  that box up there!).
+1. Enter your text in the designated text area (️ 🗨️ that box up there!).
 2. Specify the words you want to scramble by separating them with commas in the "Words to Scramble" field (",").
 3. Click the "Redact Now" button (that big red button! ).
-4. Redactr scans your text, replaces the specified words with your chosen character(s), and displays the redacted text along with some cool stats () like words scanned, matched words, scrambled characters, and processing time (how fast was it? ⚡️).
+4. Redactr scans your text, replaces the specified words with 😶‍🌫️ character(s), and displays the redacted text.
 
 **Features:**
 
 * ✨ Simple and user-friendly interface (easy to use for everyone!)
 *  Scramble single words or phrases (target those specific words!)
-*  See statistics to understand what's happening (knowledge is power!)
 
 **Getting Started:**
 

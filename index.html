@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Redactr</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Redactr</h1>
+  <p>Enter your text here:</p>
+  <textarea id="originalText" rows="7"></textarea>
+  <br>
+  <p>Words to scramble <b>(separated by commas):</b></p>
+  <input type="text" id="scrambleWords">
+  <br>
+  <button onclick="redactText()">Redact Now</button>
+  <br>
+  <p id="redactedText"></p>
+  <br>
+  <p>Words Matched: <b id="wordsMatched">0</b></p>
+  <script src="script.js"></script>
+</body>
+
+</html>
